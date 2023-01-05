@@ -1,4 +1,4 @@
-# Marketing BI system ETL
+# ETL Pipeline for Marketing BI System
 
 ![Screenshot 2023-01-05 141159](https://user-images.githubusercontent.com/15308273/210722686-23c671f8-2761-4e33-8681-d9c04d4917fe.png)
 
