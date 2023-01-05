@@ -1,5 +1,7 @@
 # Marketing BI system ETL
 
+![Screenshot 2023-01-05 141159](https://user-images.githubusercontent.com/15308273/210722686-23c671f8-2761-4e33-8681-d9c04d4917fe.png)
+
 This is an ETL pipeline to extract data from Facebook Graph API. You can also modify it and apply it to other platforms. Just make sure to read API doc of the platform first.
 
 ## 1 - Extract and Transform
